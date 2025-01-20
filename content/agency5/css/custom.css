@@ -3,11 +3,14 @@
 
 }
 
+
+
 @media only screen and (min-width: 778px ) and (max-width:960px) {
     .customHeader{
         height: 500px;
     
     }
+    
 }
 
 @media only screen and (min-width: 608px ) and (max-width:660px) {
@@ -30,8 +33,21 @@
 }
 @media only screen and (max-width:480px) {
     .customHeader{
-        height: 350px;
+        height: 300px;
     
+    }
+    #index_whoWeAre{
+        font-size: 13px !important;
+    }
+    
+}
+@media only screen and (min-width: 768px) {
+    #slider-1-slide-1-layer-0 {
+        display: none;
+    }
+    #usGulf{
+        font-weight: 700;
+        font-size: medium;
     }
 }
 
