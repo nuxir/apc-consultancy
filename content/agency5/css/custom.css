@@ -30,6 +30,11 @@
         height: 400px;
     
     }
+    .custom-layer{
+        font-size: 20px !important; 
+        line-height: 20px !important;
+
+    }
 }
 @media only screen and (max-width:480px) {
     .customHeader{
@@ -39,7 +44,11 @@
     #index_whoWeAre{
         font-size: 13px !important;
     }
-    
+    .custom-layer{
+        font-size: 13px !important; 
+        line-height: 20px !important;
+
+    }
 }
 @media only screen and (min-width: 768px) {
     #slider-1-slide-1-layer-0 {
@@ -49,6 +58,7 @@
         font-weight: 700;
         font-size: medium;
     }
+    
 }
 
 /* 1024, 768, 480, 1240 */
