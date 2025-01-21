@@ -24,6 +24,9 @@
         height: 450px;
     
     }
+    #apclogo{
+        display: none;
+    }
 }
 @media only screen and (min-width: 480px ) and (max-width:500px) {
     .customHeader{
@@ -34,6 +37,9 @@
         font-size: 20px !important; 
         line-height: 20px !important;
 
+    }
+    #apclogo{
+        display: none;
     }
 }
 @media only screen and (max-width:480px) {
@@ -48,6 +54,9 @@
         font-size: 13px !important; 
         line-height: 20px !important;
 
+    }
+    #apclogo{
+        display: none;
     }
 }
 @media only screen and (min-width: 768px) {
