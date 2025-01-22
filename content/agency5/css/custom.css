@@ -5,6 +5,28 @@
 
 
 
+@media only screen and (min-width: 2560px )  {
+    #logo {
+        padding-left: 400px !important;
+    
+    }
+    
+}
+@media only screen and (min-width: 1401px ) and (max-width:2560px) {
+    #logo {
+        padding-left: 210px !important;
+    
+    }
+    
+}
+
+@media only screen and (min-width: 1024px ) and (max-width:1400px) {
+    #logo {
+        padding-left: 0px !important;
+    
+    }
+    
+}
 @media only screen and (min-width: 778px ) and (max-width:960px) {
     .customHeader{
         height: 500px;
